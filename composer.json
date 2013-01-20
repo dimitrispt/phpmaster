@@ -1,0 +1,14 @@
+{
+    "name": "vendor/p-h-p-master",
+    "description": "Description of project PHPMaster.",
+    "authors": [
+        {
+            "name": "dimitrispt",
+            "email": "dimitris.pait@gmail.com"
+        }
+    ],
+    "require": {
+	"monolog/monolog":"1.2.*"
+    },
+   "license": "GPL-3.0+"
+}
